@@ -1,0 +1,14 @@
+/Users/emrahelis/var_keyword/bin/Debug/net8.0/var_keyword
+/Users/emrahelis/var_keyword/bin/Debug/net8.0/var_keyword.deps.json
+/Users/emrahelis/var_keyword/bin/Debug/net8.0/var_keyword.runtimeconfig.json
+/Users/emrahelis/var_keyword/bin/Debug/net8.0/var_keyword.dll
+/Users/emrahelis/var_keyword/bin/Debug/net8.0/var_keyword.pdb
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.AssemblyInfoInputs.cache
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.AssemblyInfo.cs
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.csproj.CoreCompileInputs.cache
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.dll
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/refint/var_keyword.dll
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.pdb
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.genruntimeconfig.cache
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/ref/var_keyword.dll
