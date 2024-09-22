@@ -12,3 +12,4 @@
 /Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.pdb
 /Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.genruntimeconfig.cache
 /Users/emrahelis/var_keyword/obj/Debug/net8.0/ref/var_keyword.dll
+/Users/emrahelis/var_keyword/obj/Debug/net8.0/var_keyword.sourcelink.json

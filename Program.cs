@@ -37,3 +37,20 @@ var birinciSayi =int.Parse(Console.ReadLine());
 Console.WriteLine("İkinci sayıyı giriniz");
 var ikinciSayi =int.Parse(Console.ReadLine());
 Console.WriteLine(birinciSayi+ikinciSayi);
+
+
+// Özetle, var tipi verdiğiniz değere göre kendi tipini kendisi ayarlar
+
+
+// Tüm bilgiğiniz yazılımsal araçlar ile,
+// Finonaççi sayı dizisini ekrana yazan bir uygulama yazınız.
+
+// 1-1-2-3-5-8-13-21-34-55
+
+// bir döngü 
+// 500 'e dönse
+// dönerken,gelen her sayıyı toplasa
+// i değeri 1, sonrasında gelen i değeri 2 , i 2 değerini görünce bir önceki sayı ile toplasın
+// elde edilen sonuç 3 b
+
+// Ödev : Fibonacci sayı dizisini ekrana yazdıran uygulama
