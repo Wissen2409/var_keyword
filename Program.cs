@@ -54,3 +54,10 @@ Console.WriteLine(birinciSayi+ikinciSayi);
 // elde edilen sonuç 3 b
 
 // Ödev : Fibonacci sayı dizisini ekrana yazdıran uygulama
+
+// var tanımı yazılımıncının işini kolaylaştırdığı gibi, aynı zamanda kodun okunmasınıda zorlaştırır.
+
+// 
+
+//Gelece Not  :  var keyword'ünün çıkışı : c# anonim tipler yazılabilir, anonim tiplerin bir tipi olmadığı için bu tipler var tipi ile karşınabilir
+//Gelece Not : Karmaşık veri tabanı zorgularından gelen verileri elimizdeki bilinen tiplere maplemek zor olduğu durumda var yazılımcının işini kolaylaştırır
